@@ -32,14 +32,7 @@ def crawler(url):
     try:
          imagen_url = soup.select_one('div.prod-structure img')['src']
          
-    # NO ME HA DADO MÁS TIEMPO A INDAGAR MÁS EN ESTE PUNTO, PERO LA IDEA ERA DESCARGAR LA IMAGEN SVG Y CONVERTIRLA A PNG :/
-    # response = requests.get(imagen_url)
-    # with tempfile.NamedTemporaryFile(delete=False, suffix=".svg") as f:
-    #     f.write(response.content)
-    #     img = svg2rlg(f.name)
-    #     renderPM.drawToFile(img, f'products/img/{titulo}.png', fmt='PNG')
-    #     print(f'Imagen guardada: products/img/{titulo}.png')
-    #     os.unlink(f.name)  # delete the temporary file
+    
     except:
          imagen_url = "Sin imagen"
     
