@@ -1,0 +1,2418 @@
+[
+    {
+        "id": "10-1004",
+        "titulo": "4(Z)-Decenoic acid",
+        "imagen_url": "Sin imagen",
+        "descripcion": "Sin descripción",
+        "CAS number": "505-90-8",
+        "CAS index name": null,
+        "estructura": "C10H18O2",
+        "url": "https://www.larodan.com/product/4z-decenoic-acid/",
+        "sinonimos": [
+            "4-cis-Decenoic acid"
+        ],
+        "peso molecular": "170.25",
+        "numero de lipido": "C10:1",
+        "smiles": "O=C(O)CCC=CCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "XKZKQTCECFWKBN-SREVYHEPSA-N",
+        "pureza": ">97%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 4(Z)-Decenoic acid / 10-1004",
+        "paquetes": [
+            {
+                "id": "10-1004-7",
+                "dosis": "4(Z)-Decenoic acid - 25 mg",
+                "precio": "120.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1201",
+        "titulo": "11-Dodecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/65423258.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "65423-25-8",
+        "CAS index name": "11-Dodecenoic acid",
+        "estructura": "C12H22O2",
+        "url": "https://www.larodan.com/product/11-dodecenoic-acid/",
+        "sinonimos": [
+            "C12:1ω11"
+        ],
+        "peso molecular": "198.3",
+        "numero de lipido": "C12:1",
+        "smiles": "O=C(O)CCCCCCCCCC=C",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=GZZPOFFXKUVNSW-UHFFFAOYSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1201_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1201-30",
+                "dosis": "11-Dodecenoic acid - 5 x 100 mg",
+                "precio": ""
+            },
+            {
+                "id": "10-1201-9",
+                "dosis": "11-Dodecenoic acid - 100 mg",
+                "precio": "71.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1101",
+        "titulo": "10-Undecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/112389.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "112-38-9",
+        "CAS index name": "10-Undecenoic acid",
+        "estructura": "C11H20O2",
+        "url": "https://www.larodan.com/product/10-undecenoic-acid/",
+        "sinonimos": [
+            "10-Hendecenoic acid",
+            "ω-Hendecenoic acid",
+            "NSC 2013",
+            "Undecylenic acid",
+            "ω-Undecenoic acid",
+            "10-Undecylenic acid"
+        ],
+        "peso molecular": "184.28",
+        "numero de lipido": "C11:1",
+        "smiles": "O=C(O)CCCCCCCCC=C",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=FRPZMMHWLSIFAZ-UHFFFAOYSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1101_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1101-30",
+                "dosis": "10-Undecenoic acid - 5 x 100 mg",
+                "precio": "105.00€"
+            },
+            {
+                "id": "10-1101-9",
+                "dosis": "10-Undecenoic acid - 100 mg",
+                "precio": "30.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1009",
+        "titulo": "9-Decenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/14436329.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "14436-32-9",
+        "CAS index name": "9-Decenoic acid",
+        "estructura": "C10H18O2",
+        "url": "https://www.larodan.com/product/9-decenoic-acid/",
+        "sinonimos": [
+            "Caproleic acid"
+        ],
+        "peso molecular": "170.25",
+        "numero de lipido": "C10:1",
+        "smiles": "O=C(O)CCCCCCCC=C",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=KHAVLLBUVKBTBG-UHFFFAOYSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1009_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1009-13",
+                "dosis": "9-Decenoic acid - 1 g",
+                "precio": "99.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1001",
+        "titulo": "2(E)-Decenoic acid",
+        "imagen_url": "Sin imagen",
+        "descripcion": "Sin descripción",
+        "CAS number": "334-49-6",
+        "CAS index name": null,
+        "estructura": "C10H18O2",
+        "url": "https://www.larodan.com/product/2e-decenoic-acid/",
+        "sinonimos": [
+            "2-trans-Decenoic acid",
+            "g"
+        ],
+        "peso molecular": "170.25",
+        "numero de lipido": "C10:1",
+        "smiles": "O=C(O)C=CCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "WXBXVVIUZANZAU-CMDGGOBGSA-N",
+        "pureza": ">97%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 2(E)-Decenoic acid / 10-1001",
+        "paquetes": [
+            {
+                "id": "10-1001-9",
+                "dosis": "2(E)-Decenoic acid - 100 mg",
+                "precio": "100.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1511",
+        "titulo": "10(E)-Pentadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/321744585.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "321744-58-5",
+        "CAS index name": "10-Pentadecenoic acid, (10E)-",
+        "estructura": "C15H28O2",
+        "url": "https://www.larodan.com/product/10e-pentadecenoic-acid/",
+        "sinonimos": [
+            "(10E)-10-Pentadecenoic acid"
+        ],
+        "peso molecular": "240.38",
+        "numero de lipido": "C15:1",
+        "smiles": "O=C(O)CCCCCCCCC=CCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=APXSAEQXOXTDAM-AATRIKPKSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1511_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1511-7",
+                "dosis": "10(E)-Pentadecenoic acid - 25 mg",
+                "precio": "173.00€"
+            },
+            {
+                "id": "10-1511-9",
+                "dosis": "10(E)-Pentadecenoic acid - 100 mg",
+                "precio": ""
+            }
+        ]
+    },
+    {
+        "id": "10-1301",
+        "titulo": "12-Tridecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/6006060.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "6006-06-0",
+        "CAS index name": "12-Tridecenoic acid",
+        "estructura": "C13H24O2",
+        "url": "https://www.larodan.com/product/12-tridecenoic-acid/",
+        "sinonimos": [
+            "(10-Undecenyl)acetic acid",
+            "ω-Tridecenoic acid"
+        ],
+        "peso molecular": "212.33",
+        "numero de lipido": "C13:1",
+        "smiles": "O=C(O)CCCCCCCCCCC=C",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=PARCICAYFORNPH-UHFFFAOYSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1301_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1301-30",
+                "dosis": "12-Tridecenoic acid - 5 x 100 mg",
+                "precio": "196.00€"
+            },
+            {
+                "id": "10-1301-9",
+                "dosis": "12-Tridecenoic acid - 100 mg",
+                "precio": "85.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1501",
+        "titulo": "10(Z)-Pentadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/84743293.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "84743-29-3",
+        "CAS index name": "10-Pentadecenoic acid, (10Z)-",
+        "estructura": "C15H28O2",
+        "url": "https://www.larodan.com/product/10z-pentadecenoic-acid/",
+        "sinonimos": [
+            "10-Pentadecenoic acid",
+            "(Z)-",
+            "(10Z)-10-Pentadecenoic acid",
+            "cis-10-Pentadecenoic acid",
+            "(Z)-10-Pentadecenoic acid"
+        ],
+        "peso molecular": "240.38",
+        "numero de lipido": "C15:1",
+        "smiles": "O=C(O)CCCCCCCCC=CCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=APXSAEQXOXTDAM-WAYWQWQTSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1501_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1501-7",
+                "dosis": "10(Z)-Pentadecenoic acid - 25 mg",
+                "precio": "136.00€"
+            },
+            {
+                "id": "10-1501-8",
+                "dosis": "10(Z)-Pentadecenoic acid - 50 mg",
+                "precio": "207.00€"
+            },
+            {
+                "id": "10-1501-9",
+                "dosis": "10(Z)-Pentadecenoic acid - 100 mg",
+                "precio": "273.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1402",
+        "titulo": "9(E)-Tetradecanoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/50286301.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "50286-30-1",
+        "CAS index name": "9-Tetradecenoic acid, (9E)-",
+        "estructura": "C14H26O2",
+        "url": "https://www.larodan.com/product/9e-tetradecanoic-acid/",
+        "sinonimos": [
+            "E-9-Tetradecenoic acid",
+            "Myristelaidic acid",
+            "trans-9-Tetradecenoic acid",
+            "9-Tetradecenoic acid",
+            "(E)-[...]",
+            "(E)-9-Tetradecenoic acid",
+            "(9E)-9-Tetradecenoic acid"
+        ],
+        "peso molecular": "226.36",
+        "numero de lipido": "C14:1",
+        "smiles": "O=C(O)CCCCCCCC=CCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=YWWVWXASSLXJHU-AATRIKPKSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1402_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1402-7",
+                "dosis": "9(E)-Tetradecanoic acid - 25 mg",
+                "precio": "136.00€"
+            },
+            {
+                "id": "10-1402-9",
+                "dosis": "9(E)-Tetradecanoic acid - 100 mg",
+                "precio": "320.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1401",
+        "titulo": "9(Z)-Tetradecanoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/544649.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "544-64-9",
+        "CAS index name": "9-Tetradecenoic acid, (9Z)-",
+        "estructura": "C14H26O2",
+        "url": "https://www.larodan.com/product/9z-tetradecanoic-acid/",
+        "sinonimos": [
+            "Myristoleic acid",
+            "9-Tetradecenoic acid",
+            "(Z)-",
+            "Myristolenic acid",
+            "Oleomyristic acid",
+            "(9Z)-9-Tetradecenoic acid[...]",
+            "9(Z)-Tetradecenoic acid",
+            "cis-9-Tetradecenoic acid",
+            "cis-Δ9-Tetradecenoic acid",
+            "(9Z)-Tetradeca-9-enoic acid",
+            "(Z)-9-Tetradecenoic acid",
+            "9-cis-Tetradecenoic acid"
+        ],
+        "peso molecular": "226.36",
+        "numero de lipido": "C14:1",
+        "smiles": "O=C(O)CCCCCCCC=CCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=YWWVWXASSLXJHU-WAYWQWQTSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1401_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1401-30",
+                "dosis": "9(Z)-Tetradecanoic acid - 5 x 100 mg",
+                "precio": "437.00€"
+            },
+            {
+                "id": "10-1401-9",
+                "dosis": "9(Z)-Tetradecanoic acid - 100 mg",
+                "precio": "143.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1601",
+        "titulo": "9(Z)-Hexadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/373499.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "373-49-9",
+        "CAS index name": "9-Hexadecenoic acid, (9Z)-",
+        "estructura": "C16H30O2",
+        "url": "https://www.larodan.com/product/9z-hexadecenoic-acid/",
+        "sinonimos": [
+            "cis-9-Hexadecenoic acid",
+            "(Z)-9-Hexadecenoic acid",
+            "Palmitoleic acid",
+            "cis-Δ9-Hexadecenoic acid",
+            "cis-Palmitoleic acid[...]",
+            "Zoomeric acid",
+            "Oleopalmitic acid",
+            "9-cis-Hexadecenoic acid",
+            "C16:1",
+            "9Z-Hexadecenoic acid",
+            "(Z)-Hexadec-9-enoic acid",
+            "(9Z)-9-Hexadecenoic acid",
+            "9-Hexadecenoic acid",
+            "9-Hexadecenoic acid",
+            "(Z)-"
+        ],
+        "peso molecular": "254.41",
+        "numero de lipido": "C16:1",
+        "smiles": "O=C(O)CCCCCCCC=CCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=SECPZKHBENQXJG-FPLPWBNLSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1601_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1601-30",
+                "dosis": "9(Z)-Hexadecenoic acid - 5 x 100 mg",
+                "precio": "163.00€"
+            },
+            {
+                "id": "10-1601-9",
+                "dosis": "9(Z)-Hexadecenoic acid - 100 mg",
+                "precio": "54.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1602",
+        "titulo": "9(E)-Hexadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/10030736.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "10030-73-6",
+        "CAS index name": "9-Hexadecenoic acid, (9E)-",
+        "estructura": "C16H30O2",
+        "url": "https://www.larodan.com/product/9e-hexadecenoic-acid/",
+        "sinonimos": [
+            "Palmitelaidic acid",
+            "(E)-9-Hexadecenoic acid",
+            "trans-9-Hexadecenoic acid",
+            "(9E)-9-Hexadecenoic acid[...]",
+            "(E)-Hexadec-9-enoic acid",
+            "9-trans-Hexadecenoic acid",
+            "trans-Palmitoleic acid",
+            "9-Hexadecenoic acid",
+            "(E)-"
+        ],
+        "peso molecular": "254.41",
+        "numero de lipido": "C16:1",
+        "smiles": "O=C(O)CCCCCCCC=CCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=SECPZKHBENQXJG-BQYQJAHWSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1602_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1602-13",
+                "dosis": "9(E)-Hexadecenoic acid - 1 g",
+                "precio": "207.00€"
+            },
+            {
+                "id": "10-1602-30",
+                "dosis": "9(E)-Hexadecenoic acid - 5 x 100 mg",
+                "precio": "163.00€"
+            },
+            {
+                "id": "10-1602-9",
+                "dosis": "9(E)-Hexadecenoic acid - 100 mg",
+                "precio": "54.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1606",
+        "titulo": "6(Z)-Hexadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/17004512.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "17004-51-2",
+        "CAS index name": "6-Hexadecenoic acid, (6Z)-",
+        "estructura": "C16H30O2",
+        "url": "https://www.larodan.com/product/6z-hexadecenoic-acid/",
+        "sinonimos": [
+            "6-Hexadecenoic acid",
+            "(Z)-",
+            "C16:1ω10c",
+            "(Z)-6-Hexadecenoic acid",
+            "16:1ω10",
+            "Sapienic acid",
+            "cis-6-Hexadecenoic acid",
+            "(6Z)-6-Hexadecenoic acid"
+        ],
+        "peso molecular": "254.41",
+        "numero de lipido": "C16:1",
+        "smiles": "O=C(O)CCCCC=CCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=NNNVXFKZMRGJPM-KHPPLWFESA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1606_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1606-13",
+                "dosis": "6(Z)-Hexadecenoic acid - 1 g",
+                "precio": ""
+            },
+            {
+                "id": "10-1606-4",
+                "dosis": "6(Z)-Hexadecenoic acid - 5 mg",
+                "precio": "115.00€"
+            },
+            {
+                "id": "10-1606-7",
+                "dosis": "6(Z)-Hexadecenoic acid - 25 mg",
+                "precio": "288.00€"
+            },
+            {
+                "id": "10-1606-9",
+                "dosis": "6(Z)-Hexadecenoic acid - 100 mg",
+                "precio": "575.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1514",
+        "titulo": "14-Pentadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/17351347.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "17351-34-7",
+        "CAS index name": "14-Pentadecenoic acid",
+        "estructura": "C15H28O2",
+        "url": "https://www.larodan.com/product/14-pentadecenoic-acid/",
+        "sinonimos": [
+            "ω-Pentadecenoic acid"
+        ],
+        "peso molecular": "240.38",
+        "numero de lipido": "C15:1",
+        "smiles": "O=C(O)CCCCCCCCCCCCC=C",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=CAHZYAQCDBBLER-UHFFFAOYSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 14-Pentadecenoic acid / 10-1514",
+        "paquetes": [
+            {
+                "id": "10-1514-9",
+                "dosis": "14-Pentadecenoic acid - 100 mg",
+                "precio": "207.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1607",
+        "titulo": "7(Z)-Hexadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/2416195.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "2416-19-5",
+        "CAS index name": "7-Hexadecenoic acid, (7Z)-",
+        "estructura": "C16H30O2",
+        "url": "https://www.larodan.com/product/7z-hexadecenoic-acid/",
+        "sinonimos": [
+            "cis-7-Hexadecenoic acid",
+            "Hypogeic acid",
+            "(7Z)-7-Hexadecenoic acid",
+            "(Z)-7-Hexadecenoic acid",
+            "7Z-Hexadecenoic acid",
+            "7-Hexadecenoic acid",
+            "(Z)-"
+        ],
+        "peso molecular": "254.41",
+        "numero de lipido": "C16:1",
+        "smiles": "O=C(O)CCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=PJHOFUXBXJNUAC-KTKRTIGZSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1607_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1607-5",
+                "dosis": "7(Z)-Hexadecenoic acid - 10 mg",
+                "precio": "130.00€"
+            },
+            {
+                "id": "10-1607-8",
+                "dosis": "7(Z)-Hexadecenoic acid - 50 mg",
+                "precio": "525.00€"
+            },
+            {
+                "id": "10-1607-9",
+                "dosis": "7(Z)-Hexadecenoic acid - 100 mg",
+                "precio": "980.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1608",
+        "titulo": "2(E)-Hexadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/929793.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "929-79-3",
+        "CAS index name": "2-Hexadecenoic acid, (2E)-",
+        "estructura": "C16H30O2",
+        "url": "https://www.larodan.com/product/2e-hexadecenoic-acid/",
+        "sinonimos": [
+            "2-Hexadecenoic acid",
+            "(E)-",
+            "(2E)-2-Hexadecenoic acid",
+            "trans-2-Hexadecenoic acid",
+            "(E)-2-Hexadecenoic acid"
+        ],
+        "peso molecular": "254.41",
+        "numero de lipido": "C16:1",
+        "smiles": "O=C(O)C=CCCCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=ZVRMGCSSSYZGSM-CCEZHUSRSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1608_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1608-4",
+                "dosis": "2(E)-Hexadecenoic acid - 5 mg",
+                "precio": "230.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1609",
+        "titulo": "2(Z)-Hexadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/2825685.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "2825-68-5",
+        "CAS index name": "2-Hexadecenoic acid, (2Z)-",
+        "estructura": "C16H30O2",
+        "url": "https://www.larodan.com/product/2z-hexadecenoic-acid/",
+        "sinonimos": [
+            "2-Hexadecenoic acid",
+            "(Z)-",
+            "(2Z)-2-Hexadecenoic acid"
+        ],
+        "peso molecular": "254.41",
+        "numero de lipido": "C16:1",
+        "smiles": "O=C(O)C=CCCCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=ZVRMGCSSSYZGSM-PFONDFGASA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 2(Z)-Hexadecenoic acid / 10-1609",
+        "paquetes": [
+            {
+                "id": "10-1609-7",
+                "dosis": "2(Z)-Hexadecenoic acid - 25 mg",
+                "precio": "345.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1701",
+        "titulo": "10(Z)-Heptadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/29743973.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "29743-97-3",
+        "CAS index name": "10-Heptadecenoic acid, (10Z)-",
+        "estructura": "C17H32O2",
+        "url": "https://www.larodan.com/product/10z-heptadecenoic-acid/",
+        "sinonimos": [
+            "Z 10-Heptadecenoic acid",
+            "10-Heptadecenoic acid",
+            "(Z)-",
+            "(10Z)-10-Heptadecenoic acid",
+            "cis-10-Heptadecenoic acid[...]",
+            "10Z-Heptadecenoic acid",
+            "10-cis-Heptadecenoic acid"
+        ],
+        "peso molecular": "268.44",
+        "numero de lipido": "C17:1",
+        "smiles": "O=C(O)CCCCCCCCC=CCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=GDTXICBNEOEPAZ-FPLPWBNLSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1701_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1701-30",
+                "dosis": "10(Z)-Heptadecenoic acid - 5 x 100 mg",
+                "precio": "215.00€"
+            },
+            {
+                "id": "10-1701-9",
+                "dosis": "10(Z)-Heptadecenoic acid - 100 mg",
+                "precio": "76.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1611",
+        "titulo": "11(Z)-Hexadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/2416208.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "2416-20-8",
+        "CAS index name": "11-Hexadecenoic acid, (11Z)-",
+        "estructura": "C16H30O2",
+        "url": "https://www.larodan.com/product/11z-hexadecenoic-acid/",
+        "sinonimos": [
+            "cis-11-Hexadecenoic acid",
+            "(Z)-11-Hexadecenoic acid",
+            "(11Z)-11-Hexadecenoic acid",
+            "11-Hexadecenoic acid",
+            "(Z)-[...]",
+            "Hexadec-11(Z)-enoic acid",
+            "Δ11-Hexadecenoic acid"
+        ],
+        "peso molecular": "254.41",
+        "numero de lipido": "C16:1",
+        "smiles": "O=C(O)CCCCCCCCCC=CCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=JGMYDQCXGIMHLL-WAYWQWQTSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1611_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1611-4",
+                "dosis": "11(Z)-Hexadecenoic acid - 5 mg",
+                "precio": "345.00€"
+            },
+            {
+                "id": "10-1611-9",
+                "dosis": "11(Z)-Hexadecenoic acid - 100 mg",
+                "precio": ""
+            }
+        ]
+    },
+    {
+        "id": "10-1702",
+        "titulo": "10(E)-Heptadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/126761431.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "126761-43-1",
+        "CAS index name": "10-Heptadecenoic acid, (10E)-",
+        "estructura": "C17H32O2",
+        "url": "https://www.larodan.com/product/10e-heptadecenoic-acid/",
+        "sinonimos": [
+            "10-Heptadecenoic acid",
+            "(E)-",
+            "(10E)-10-Heptadecenoic acid"
+        ],
+        "peso molecular": "268.44",
+        "numero de lipido": "C17:1",
+        "smiles": "O=C(O)CCCCCCCCC=CCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=GDTXICBNEOEPAZ-BQYQJAHWSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1702_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1702-12",
+                "dosis": "10(E)-Heptadecenoic acid - 500 mg",
+                "precio": "472.00€"
+            },
+            {
+                "id": "10-1702-13",
+                "dosis": "10(E)-Heptadecenoic acid - 1 g",
+                "precio": "909.00€"
+            },
+            {
+                "id": "10-1702-29",
+                "dosis": "10(E)-Heptadecenoic acid - 3 x 25 mg",
+                "precio": "197.00€"
+            },
+            {
+                "id": "10-1702-7",
+                "dosis": "10(E)-Heptadecenoic acid - 25 mg",
+                "precio": "99.00€"
+            },
+            {
+                "id": "10-1702-9",
+                "dosis": "10(E)-Heptadecenoic acid - 100 mg",
+                "precio": "170.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1709",
+        "titulo": "9(Z)-Heptadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/1981506.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "1981-50-6",
+        "CAS index name": "9-Heptadecenoic acid, (9Z)-",
+        "estructura": "C17H32O2",
+        "url": "https://www.larodan.com/product/9z-heptadecenoic-acid/",
+        "sinonimos": [
+            "(Z)-9-Heptadecenoic acid",
+            "cis-n-9-Heptadecenoic acid",
+            "(Z)-Heptadec-9-enoic acid",
+            "Margaroleic acid[...]",
+            "(9Z)-9-Heptadecenoic acid",
+            "9-Heptadecenoic acid",
+            "(Z)-",
+            "cis-9-Heptadecenoic acid"
+        ],
+        "peso molecular": "268.44",
+        "numero de lipido": "C17:1",
+        "smiles": "O=C(O)CCCCCCCC=CCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=QSBYPNXLFMSGKH-HJWRWDBZSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1709_ENG Ethanol.pdf",
+        "paquetes": [
+            {
+                "id": "10-1709-4",
+                "dosis": "9(Z)-Heptadecenoic acid - 5 mg",
+                "precio": "345.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1805",
+        "titulo": "5(Z)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/676299.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "676-29-9",
+        "CAS index name": "5-Octadecenoic acid, (5Z)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/5z-octadecenoic-acid/",
+        "sinonimos": [
+            "(Z)-5-Octadecenoic acid",
+            "Δ5,6-Octadecenoic acid",
+            "Δ5-cis-Octadecenoic acid",
+            "(5Z)-5-Octadecenoic acid[...]",
+            "5-Octadecenoic acid",
+            "(Z)-",
+            "cis-5-Octadecenoic acid"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCC=CCCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=AQWHMKSIVLSRNY-YPKPFQOOSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1805_ENG-v2.pdf",
+        "paquetes": [
+            {
+                "id": "10-1805-4",
+                "dosis": "5(Z)-Octadecenoic acid - 5 mg",
+                "precio": "345.00€"
+            },
+            {
+                "id": "10-1805-7",
+                "dosis": "5(Z)-Octadecenoic acid - 25 mg",
+                "precio": ""
+            }
+        ]
+    },
+    {
+        "id": "10-1806",
+        "titulo": "2(E)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/2825798.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "2825-79-8",
+        "CAS index name": "2-Octadecenoic acid, (2E)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/2e-octadecenoic-acid/",
+        "sinonimos": [
+            "2-Octadecenoic acid",
+            "(E)-",
+            "(2E)-2-Octadecenoic acid",
+            "trans-2-Octadecenoic acid",
+            "(E)-2-Octadecenoic acid"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)C=CCCCCCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=LKOVPWSSZFDYPG-WUKNDPDISA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1806_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1806-4",
+                "dosis": "2(E)-Octadecenoic acid - 5 mg",
+                "precio": "345.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1807",
+        "titulo": "7(Z)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/13126313.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "13126-31-3",
+        "CAS index name": "7-Octadecenoic acid, (7Z)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/7z-octadecenoic-acid/",
+        "sinonimos": [
+            "(7Z)-7-Octadecenoic acid",
+            "7-Octadecenoic acid",
+            "cis-",
+            "Δ7-cis-Octadecenoic acid",
+            "7-Octadecenoic acid",
+            "(Z)-[...]",
+            "(Z)-7-Octadecenoic acid",
+            "cis-7-Octadecenoic acid"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCCC=CCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=RVUCYJXFCAVHNC-QXMHVHEDSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1807_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1807-4",
+                "dosis": "7(Z)-Octadecenoic acid - 5 mg",
+                "precio": "345.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1801",
+        "titulo": "9(Z)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/112801.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "112-80-1",
+        "CAS index name": "9-Octadecenoic acid (9Z)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/9z-octadecenoic-acid/",
+        "sinonimos": [
+            "9-Octadecenoic acid",
+            "(Z)-",
+            "(9Z)-9-Octadecenoic acid",
+            "9-cis-Octadecenoic acid",
+            "Δ9-cis-Oleic acid",
+            "Lubolic acid[...]",
+            "9Z-Octadecenoic acid",
+            "cis-Oleic acid",
+            "9-Octadecenoic acid (Z)-",
+            "cis-9-Octadecenoic acid",
+            "Z-9-Octadecenoic acid",
+            "Δ9-cis-Octadecenoic acid",
+            "cis-Δ9-Octadecenoic acid",
+            "C18:1",
+            "C18:1n9c",
+            "(18,9-Olefin) oleic acid"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=ZQPPMHVWECSIRJ-KTKRTIGZSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1801_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1801-13",
+                "dosis": "9(Z)-Octadecenoic acid - 1 g",
+                "precio": "36.00€"
+            },
+            {
+                "id": "10-1801-17",
+                "dosis": "9(Z)-Octadecenoic acid - 10 g",
+                "precio": "140.00€"
+            },
+            {
+                "id": "10-1801-21",
+                "dosis": "9(Z)-Octadecenoic acid - 100 g",
+                "precio": "500.00€"
+            },
+            {
+                "id": "10-1801-25",
+                "dosis": "9(Z)-Octadecenoic acid - 1 kg",
+                "precio": "2,000.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1809",
+        "titulo": "6(E)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/593408.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "593-40-8",
+        "CAS index name": "6-Octadecenoic acid, (6E)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/6e-octadecenoic-acid/",
+        "sinonimos": [
+            "(E)-6-Octadecenoic acid",
+            "trans-Δ6-Octadecenoic acid",
+            "Petroselaidic acid",
+            "(6E)-6-Octadecenoic acid[...]",
+            "Δ6-trans-Octadecenoic acid",
+            "trans-6-Octadecenoic acid",
+            "6-Octadecenoic acid",
+            "(E)-",
+            "6-trans-Octadecenoic acid",
+            "C18:1-6t"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCC=CCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=CNVZJPUDSLNTQU-OUKQBFOZSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1809_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1809-13",
+                "dosis": "6(E)-Octadecenoic acid - 1 g",
+                "precio": "219.00€"
+            },
+            {
+                "id": "10-1809-16",
+                "dosis": "6(E)-Octadecenoic acid - 5 g",
+                "precio": "610.00€"
+            },
+            {
+                "id": "10-1809-17",
+                "dosis": "6(E)-Octadecenoic acid - 10 g",
+                "precio": "1,058.00€"
+            },
+            {
+                "id": "10-1809-9",
+                "dosis": "6(E)-Octadecenoic acid - 100 mg",
+                "precio": "74.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1811",
+        "titulo": "6(Z)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/593395.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "593-39-5",
+        "CAS index name": "6-Octadecenoic acid, (6Z)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/6z-octadecenoic-acid/",
+        "sinonimos": [
+            "Petroselic acid",
+            "(6Z)-6-Octadecenoic acid",
+            "Δ6-cis-Octadecenoic acid",
+            "cis-6-Octadecenoic acid",
+            "6(Z)-Octadecenoic acid[...]",
+            "cis-Petroselinic acid",
+            "cis-Δ6-Octadecenoic acid",
+            "Petroselinic acid",
+            "(Z)-6-Octadecenoic acid",
+            "6-Octadecenoic acid",
+            "(Z)-",
+            "(6Z)-Octadecenoic acid"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCC=CCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=CNVZJPUDSLNTQU-SEYXRHQNSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1811_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1811-30",
+                "dosis": "6(Z)-Octadecenoic acid - 5 x 100 mg",
+                "precio": "175.00€"
+            },
+            {
+                "id": "10-1811-9",
+                "dosis": "6(Z)-Octadecenoic acid - 100 mg",
+                "precio": "55.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1810",
+        "titulo": "9(E)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/112798.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "112-79-8",
+        "CAS index name": "9-Octadecenoic acid, (9E)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/9e-octadecenoic-acid/",
+        "sinonimos": [
+            "trans-9-Octadecenoic acid",
+            "9-Octadecenoic acid",
+            "(E)-",
+            "NSC 26988",
+            "Elaidinic acid",
+            "(E)-9-Octadecenoic acid[...]",
+            "(9E)-9-Octadecenoic acid",
+            "Δ9-trans-Octadecenoic acid",
+            "trans-Elaidic acid",
+            "9-trans-Oleic acid",
+            "9-trans-Octadecenoic acid",
+            "(9E)-Octadecenoic acid",
+            "(E)-Oleic acid",
+            "trans-Δ9-Octadecenoic acid",
+            "Elaidic acid",
+            "trans-Oleic acid"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=ZQPPMHVWECSIRJ-MDZDMXLPSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1810_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1810-13",
+                "dosis": "9(E)-Octadecenoic acid - 1 g",
+                "precio": "67.00€"
+            },
+            {
+                "id": "10-1810-31",
+                "dosis": "9(E)-Octadecenoic acid - 5 x 1 g",
+                "precio": "215.00€"
+            },
+            {
+                "id": "10-1810-9",
+                "dosis": "9(E)-Octadecenoic acid - 100 mg",
+                "precio": "46.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1812",
+        "titulo": "11(Z)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/506172.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "506-17-2",
+        "CAS index name": "11-Octadecenoic acid, (11Z)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/11z-octadecenoic-acid/",
+        "sinonimos": [
+            "(Z)-Octadec-11-enoic acid",
+            "11-cis-Octadecenoic acid",
+            "cis-11-Vaccenic acid",
+            "cis-11-Octadecenoic acid[...]",
+            "11-Octadecenoic acid",
+            "(Z)-",
+            "Δ11-cis-Octadecenoic acid",
+            "cis-Δ11-Octadecenoic acid",
+            "(11Z)-11-Octadecenoic acid",
+            "cis-Vaccenic acid",
+            "(Z)-11-Octadecenoic acid",
+            "Asclepic acid",
+            "C18:1",
+            "11-cis-Vaccenic acid",
+            "11-Octadecenoic acid",
+            "cis-"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCCCCCCC=CCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=UWHZIFQPPBDJPM-FPLPWBNLSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1812_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1812-30",
+                "dosis": "11(Z)-Octadecenoic acid - 5 x 100 mg",
+                "precio": "213.00€"
+            },
+            {
+                "id": "10-1812-9",
+                "dosis": "11(Z)-Octadecenoic acid - 100 mg",
+                "precio": "74.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1813",
+        "titulo": "11(E)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/693721.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "693-72-1",
+        "CAS index name": "11-Octadecenoic acid, (11E)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/11e-octadecenoic-acid/",
+        "sinonimos": [
+            "(11E)-11-Octadecenoic acid",
+            "11(E)-Octadecenoic acid",
+            "trans-11-Octadecenoic acid",
+            "11-trans-Octadecenoic acid[...]",
+            "trans-Vaccenic acid",
+            "(E)-Octadec-11-enoic acid",
+            "Vaccenic acid",
+            "trans-Δ11-Octadecenoic acid",
+            "11-Octadecenoic acid",
+            "(E)-",
+            "(E)-11-Octadecenoic acid"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCCCCCCC=CCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=UWHZIFQPPBDJPM-BQYQJAHWSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1813_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1813-30",
+                "dosis": "11(E)-Octadecenoic acid - 5 x 100 mg",
+                "precio": "500.00€"
+            },
+            {
+                "id": "10-1813-9",
+                "dosis": "11(E)-Octadecenoic acid - 100 mg",
+                "precio": "160.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1815",
+        "titulo": "13(Z)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/13126391.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "13126-39-1",
+        "CAS index name": "13-Octadecenoic acid, (13Z)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/13z-octadecenoic-acid/",
+        "sinonimos": [
+            "(13Z)-13-Octadecenoic acid",
+            "cis-13-Octadecenoic acid",
+            "13(Z)-Octadecenoic acid",
+            "(Z)-13-Octadecenoic acid[...]",
+            "Δ13-cis-Octadecenoic acid",
+            "13-Octadecenoic acid",
+            "(Z)-"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCCCCCCCCC=CCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=BDLLSHRIFPDGQB-WAYWQWQTSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1815_ENG Ethanol.pdf",
+        "paquetes": [
+            {
+                "id": "10-1815-4",
+                "dosis": "13(Z)-Octadecenoic acid - 5 mg",
+                "precio": "345.00€"
+            },
+            {
+                "id": "10-1815-7",
+                "dosis": "13(Z)-Octadecenoic acid - 25 mg",
+                "precio": ""
+            }
+        ]
+    },
+    {
+        "id": "10-1818",
+        "titulo": "8(Z)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/5684719.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "5684-71-9",
+        "CAS index name": "8-Octadecenoic acid, (8Z)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/8z-octadecenoic-acid/",
+        "sinonimos": [
+            "(8Z)-8-Octadecenoic acid",
+            "C18:1ω10c",
+            "Δ8-cis-Octadecenoic acid",
+            "cis-8-Octadecenoic acid",
+            "C18:1n10",
+            "8-Octadecenoic acid",
+            "(Z)-"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCCCC=CCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=WRIDQFICGBMAFQ-KHPPLWFESA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat or in solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1818_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1818-4",
+                "dosis": "8(Z)-Octadecenoic acid - 5 mg",
+                "precio": "345.00€"
+            },
+            {
+                "id": "10-1818-9",
+                "dosis": "8(Z)-Octadecenoic acid - 100 mg",
+                "precio": ""
+            }
+        ]
+    },
+    {
+        "id": "10-1814",
+        "titulo": "12(Z)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/13126379.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "13126-37-9",
+        "CAS index name": "12-Octadecenoic acid, (12Z)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/12z-octadecenoic-acid/",
+        "sinonimos": [
+            "(12Z)-12-Octadecenoic acid",
+            "Δ12-cis-Octadecenoic acid",
+            "cis-12-Octadecenoic acid",
+            "(Z)-12-Octadecenoic acid[...]",
+            "12-Octadecenoic acid",
+            "cis-",
+            "12-Octadecenoic acid",
+            "(Z)-",
+            "12Z-Octadecenoic acid"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCCCCCCCC=CCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=OXEDXHIBHVMDST-SREVYHEPSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1814_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1814-4",
+                "dosis": "12(Z)-Octadecenoic acid - 5 mg",
+                "precio": "345.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1819",
+        "titulo": "10(Z)-Octadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/2442708.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "2442-70-8",
+        "CAS index name": "10-Octadecenoic acid, (10Z)-",
+        "estructura": "C18H34O2",
+        "url": "https://www.larodan.com/product/10z-octadecenoic-acid/",
+        "sinonimos": [
+            "Δ10-cis-Octadecenoic acid",
+            "10-Octadecenoic acid",
+            "(Z)-",
+            "(Z)-10-Octadecenoic acid",
+            "10-cis-Octadecenoic acid[...]",
+            "cis-10-Octadecenoic acid",
+            "cis-Δ10-Octadecenoic acid",
+            "(10Z)-10-Octadecenoic acid"
+        ],
+        "peso molecular": "282.46",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCCCCCC=CCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=QXJSBBXBKPUZAA-HJWRWDBZSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1819_ENG Ethanol.pdf",
+        "paquetes": [
+            {
+                "id": "10-1819-1",
+                "dosis": "10(Z)-Octadecenoic acid - 1 mg",
+                "precio": ""
+            },
+            {
+                "id": "10-1819-4",
+                "dosis": "10(Z)-Octadecenoic acid - 5 mg",
+                "precio": "345.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1890",
+        "titulo": "9-Octadecynoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/506241.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "506-24-1",
+        "CAS index name": "9-Octadecynoic acid",
+        "estructura": "C18H32O2",
+        "url": "https://www.larodan.com/product/9-octadecynoic-acid/",
+        "sinonimos": [
+            "Stearolic acid",
+            "9-Stearolic acid",
+            "Octadecanoic acid-9-yne"
+        ],
+        "peso molecular": "280.45",
+        "numero de lipido": "C18:1",
+        "smiles": "O=C(O)CCCCCCCC#CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=RGTIBVZDHOMOKC-UHFFFAOYSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-1890_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-1890-4",
+                "dosis": "9-Octadecynoic acid - 5 mg",
+                "precio": "345.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1901",
+        "titulo": "10(Z)-Nonadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/73033097.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "73033-09-7",
+        "CAS index name": "10-Nonadecenoic acid, (10Z)-",
+        "estructura": "C19H36O2",
+        "url": "https://www.larodan.com/product/10z-nonadecenoic-acid/",
+        "sinonimos": [
+            "10-Nonadecenoic acid",
+            "(Z)-",
+            "(10Z)-10-Nonadecenoic acid",
+            "cis-10-Nonadecenoic acid",
+            "(Z)-10-Nonadecenoic acid"
+        ],
+        "peso molecular": "296.49",
+        "numero de lipido": "C19:1",
+        "smiles": "O=C(O)CCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=BBOWBNGUEWHNQZ-KTKRTIGZSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 10(Z)-Nonadecenoic acid / 10-1901",
+        "paquetes": [
+            {
+                "id": "10-1901-13",
+                "dosis": "10(Z)-Nonadecenoic acid - 1 g",
+                "precio": "273.00€"
+            },
+            {
+                "id": "10-1901-9",
+                "dosis": "10(Z)-Nonadecenoic acid - 100 mg",
+                "precio": "69.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1907",
+        "titulo": "7(Z)-Nonadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/118020794.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "118020-79-4",
+        "CAS index name": "7-Nonadecenoic acid, (7Z)-",
+        "estructura": "C19H36O2",
+        "url": "https://www.larodan.com/product/7z-nonadecenoic-acid/",
+        "sinonimos": [
+            "7-Nonadecenoic acid",
+            "(Z)-",
+            "(7Z)-7-Nonadecenoic acid",
+            "cis-7-Nonadecenoic acid",
+            "(Z)-7-Nonadecenoic acid"
+        ],
+        "peso molecular": "296.49",
+        "numero de lipido": "C19:1",
+        "smiles": "O=C(O)CCCCCC=CCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=MBSJMRUSWQBXNI-SEYXRHQNSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 7(Z)-Nonadecenoic acid / 10-1907",
+        "paquetes": [
+            {
+                "id": "10-1907-7",
+                "dosis": "7(Z)-Nonadecenoic acid - 25 mg",
+                "precio": "138.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1908",
+        "titulo": "7(E)-Nonadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/191544997.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "191544-99-7",
+        "CAS index name": "7-Nonadecenoic acid, (7E)-",
+        "estructura": "C19H36O2",
+        "url": "https://www.larodan.com/product/7e-nonadecenoic-acid/",
+        "sinonimos": [
+            "7-Nonadecenoic acid",
+            "(E)-",
+            "(7E)-7-Nonadecenoic acid"
+        ],
+        "peso molecular": "296.49",
+        "numero de lipido": "C19:1",
+        "smiles": "O=C(O)CCCCCC=CCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=MBSJMRUSWQBXNI-OUKQBFOZSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 7(E)-Nonadecenoic acid / 10-1908",
+        "paquetes": [
+            {
+                "id": "10-1908-7",
+                "dosis": "7(E)-Nonadecenoic acid - 25 mg",
+                "precio": "161.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-1910",
+        "titulo": "10(E)-Nonadecenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/147527217.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "147527-21-7",
+        "CAS index name": "10-Nonadecenoic acid, (10E)-",
+        "estructura": "C19H36O2",
+        "url": "https://www.larodan.com/product/10e-nonadecenoic-acid/",
+        "sinonimos": [
+            "10-Nonadecenoic acid",
+            "(E)-",
+            "(10E)-10-Nonadecenoic acid"
+        ],
+        "peso molecular": "296.49",
+        "numero de lipido": "C19:1",
+        "smiles": "O=C(O)CCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=BBOWBNGUEWHNQZ-MDZDMXLPSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 10(E)-Nonadecenoic acid / 10-1910",
+        "paquetes": [
+            {
+                "id": "10-1910-7",
+                "dosis": "10(E)-Nonadecenoic acid - 25 mg",
+                "precio": "138.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2001",
+        "titulo": "11(Z)-Eicosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/5561999.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "5561-99-9",
+        "CAS index name": "11-Eicosenoic acid, (11Z)-",
+        "estructura": "C20H38O2",
+        "url": "https://www.larodan.com/product/11z-eicosenoic-acid/",
+        "sinonimos": [
+            "11Z-Eicosenoic acid",
+            "Gondoic acid",
+            "(Z)-11-Eicosenoic acid",
+            "cis-Δ11-Eicosenoic acid",
+            "cis-11-Eicosenoic acid[...]",
+            "(11Z)-11-Eicosenoic acid",
+            "11-Eicosenoic acid",
+            "(Z)-",
+            "11-cis-Eicosenoic acid"
+        ],
+        "peso molecular": "310.52",
+        "numero de lipido": "C20:1",
+        "smiles": "O=C(O)CCCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=BITHHVVYSMSWAG-KTKRTIGZSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2001_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2001-30",
+                "dosis": "11(Z)-Eicosenoic acid - 5 x 100 mg",
+                "precio": "133.00€"
+            },
+            {
+                "id": "10-2001-9",
+                "dosis": "11(Z)-Eicosenoic acid - 100 mg",
+                "precio": "51.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2008",
+        "titulo": "8(Z)-​Eicosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/76261966.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "76261-96-6",
+        "CAS index name": "8-Eicosenoic acid, (8Z)-",
+        "estructura": "C20H38O2",
+        "url": "https://www.larodan.com/product/8z-eicosenoic-acid/",
+        "sinonimos": [
+            "8-Eicosenoic acid",
+            "(Z)-",
+            "(8Z)-8-Eicosenoic acid",
+            "8-cis-Eicosenoic acid"
+        ],
+        "peso molecular": "310.52",
+        "numero de lipido": "C20:1",
+        "smiles": "O=C(O)CCCCCCC=CCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=INLBKXOFAJTNKG-SEYXRHQNSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 8(Z)-​Eicosenoic acid / 10-2008",
+        "paquetes": [
+            {
+                "id": "10-2008-7",
+                "dosis": "8(Z)-​Eicosenoic acid - 25 mg",
+                "precio": "69.00€"
+            },
+            {
+                "id": "10-2008-9",
+                "dosis": "8(Z)-​Eicosenoic acid - 100 mg",
+                "precio": "161.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2009",
+        "titulo": "9(Z)-Eicosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/29204022.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "29204-02-2",
+        "CAS index name": "9-Eicosenoic acid, (9Z)-",
+        "estructura": "C20H38O2",
+        "url": "https://www.larodan.com/product/9z-eicosenoic-acid/",
+        "sinonimos": [
+            "9-Eicosenoic acid",
+            "(Z)-",
+            "(9Z)-9-Eicosenoic acid",
+            "Gadoleic acid",
+            "cis-9-Eicosenoic acid",
+            "Gondoleic acid",
+            "(Z)-9-Eicosenoic acid"
+        ],
+        "peso molecular": "310.52",
+        "numero de lipido": "C20:1",
+        "smiles": "O=C(O)CCCCCCCC=CCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=LQJBNNIYVWPHFW-QXMHVHEDSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2009_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2009-4",
+                "dosis": "9(Z)-Eicosenoic acid - 5 mg",
+                "precio": "345.00€"
+            },
+            {
+                "id": "10-2009-7",
+                "dosis": "9(Z)-Eicosenoic acid - 25 mg",
+                "precio": "1,150.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2010",
+        "titulo": "11(E)-Eicosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/62322843.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "62322-84-3",
+        "CAS index name": "11-Eicosenoic acid, (11E)-",
+        "estructura": "C20H38O2",
+        "url": "https://www.larodan.com/product/11e-eicosenoic-acid/",
+        "sinonimos": [
+            "11-Eicosenoic acid",
+            "(E)-",
+            "(11E)-11-Eicosenoic acid",
+            "11-trans-Eicosenoic acid",
+            "trans-11-Eicosenoic acid"
+        ],
+        "peso molecular": "310.52",
+        "numero de lipido": "C20:1",
+        "smiles": "O=C(O)CCCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=BITHHVVYSMSWAG-MDZDMXLPSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2010_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2010-7",
+                "dosis": "11(E)-Eicosenoic acid - 25 mg",
+                "precio": "58.00€"
+            },
+            {
+                "id": "10-2010-9",
+                "dosis": "11(E)-Eicosenoic acid - 100 mg",
+                "precio": "92.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2011",
+        "titulo": "2(Z)-Eicosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/93772828.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "93772-82-8",
+        "CAS index name": "2-Eicosenoic acid, (Z)-",
+        "estructura": "C20H38O2",
+        "url": "https://www.larodan.com/product/2z-eicosenoic-acid/",
+        "sinonimos": [],
+        "peso molecular": "310.52",
+        "numero de lipido": "C20:1",
+        "smiles": "O=C(O)C=CCCCCCCCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=FIKTURVKRGQNQD-HNENSFHCSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2011_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2011-5",
+                "dosis": "2(Z)-Eicosenoic acid - 10 mg",
+                "precio": "115.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2012",
+        "titulo": "2(E)-Eicosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/109264213.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "109264-21-3",
+        "CAS index name": "2-Eicosenoic acid",
+        "estructura": "C20H38O2",
+        "url": "https://www.larodan.com/product/2e-eicosenoic-acid/",
+        "sinonimos": [],
+        "peso molecular": "310.52",
+        "numero de lipido": "C20:1",
+        "smiles": "O=C(O)C=CCCCCCCCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=FIKTURVKRGQNQD-UHFFFAOYSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2012_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2012-5",
+                "dosis": "2(E)-Eicosenoic acid - 10 mg",
+                "precio": "138.00€"
+            },
+            {
+                "id": "10-2012-8",
+                "dosis": "2(E)-Eicosenoic acid - 50 mg",
+                "precio": "554.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2014",
+        "titulo": "14(Z)-Eicosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/17735954.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "17735-95-4",
+        "CAS index name": "14-Eicosenoic acid, (14Z)-",
+        "estructura": "C20H38O2",
+        "url": "https://www.larodan.com/product/14z-eicosenoic-acid/",
+        "sinonimos": [
+            "14-Eicosenoic acid",
+            "(Z)-",
+            "(14Z)-14-Eicosenoic acid"
+        ],
+        "peso molecular": "310.52",
+        "numero de lipido": "C20:1",
+        "smiles": "O=C(O)CCCCCCCCCCCCC=CCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=RMUJWENALAQPCS-SREVYHEPSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2014_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2014-5",
+                "dosis": "14(Z)-Eicosenoic acid - 10 mg",
+                "precio": "485.00€"
+            },
+            {
+                "id": "10-2014-8",
+                "dosis": "14(Z)-Eicosenoic acid - 50 mg",
+                "precio": ""
+            }
+        ]
+    },
+    {
+        "id": "10-2015",
+        "titulo": "5(Z)-​Eicosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/7050079.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "7050-07-9",
+        "CAS index name": "5-Eicosenoic acid, (5Z)-",
+        "estructura": "C20H38O2",
+        "url": "https://www.larodan.com/product/5z-eicosenoic-acid/",
+        "sinonimos": [
+            "(Z)-5-Eicosenoic acid",
+            "5-Eicosenoic acid",
+            "(Z)-",
+            "cis-Δ5-Eicosenoic acid",
+            "5-cis-Eicosenoic acid",
+            "(5Z)-5-Eicosenoic acid[...]",
+            "cis-5-Eicosenoic acid"
+        ],
+        "peso molecular": "310.52",
+        "numero de lipido": "C20:1",
+        "smiles": "O=C(O)CCCC=CCCCCCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=FPAQLJHSZVFKES-NXVVXOECSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 5(Z)-​Eicosenoic acid / 10-2015",
+        "paquetes": [
+            {
+                "id": "10-2015-7",
+                "dosis": "5(Z)-​Eicosenoic acid - 25 mg",
+                "precio": "81.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2053",
+        "titulo": "13(Z)-Eicosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/17735943.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "17735-94-3",
+        "CAS index name": "13-Eicosenoic acid, (13Z)-",
+        "estructura": "C20H38O2",
+        "url": "https://www.larodan.com/product/13z-eicosenoic-acid/",
+        "sinonimos": [
+            "(Z)-13-Eicosenoic acid",
+            "(13Z)-13-Eicosenoic acid",
+            "(Z)-13-Eicosaenoic acid",
+            "Paullinic acid",
+            "13-Eicosenoic acid",
+            "(Z)-",
+            "cis-13-Eicosenoic acid"
+        ],
+        "peso molecular": "310.52",
+        "numero de lipido": "C20:1",
+        "smiles": "O=C(O)CCCCCCCCCCCC=CCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=URXZXNYJPAJJOQ-FPLPWBNLSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 13(Z)-Eicosenoic acid / 10-2053",
+        "paquetes": [
+            {
+                "id": "10-2053-4",
+                "dosis": "13(Z)-Eicosenoic acid - 5 mg",
+                "precio": "150.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2101",
+        "titulo": "12(Z)-​Heneicosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/3515842.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "3515-84-2",
+        "CAS index name": "12-Heneicosenoic acid, (12Z)-",
+        "estructura": "C21H40O2",
+        "url": "https://www.larodan.com/product/12z-heneicosenoic-acid/",
+        "sinonimos": [
+            "12-Heneicosenoic acid",
+            "(Z)-",
+            "(12Z)-12-Heneicosenoic acid",
+            "cis-12-Heneicosenoic acid"
+        ],
+        "peso molecular": "324.54",
+        "numero de lipido": "C21:1",
+        "smiles": "O=C(O)CCCCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=VXCUECWODRDENC-KTKRTIGZSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Liquid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 12(Z)-​Heneicosenoic acid / 10-2101",
+        "paquetes": [
+            {
+                "id": "10-2101-7",
+                "dosis": "12(Z)-​Heneicosenoic acid - 25 mg",
+                "precio": "69.00€"
+            },
+            {
+                "id": "10-2101-9",
+                "dosis": "12(Z)-​Heneicosenoic acid - 100 mg",
+                "precio": "161.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2201",
+        "titulo": "13(Z)-Docosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/112867.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "112-86-7",
+        "CAS index name": "13-Docosenoic acid, (13Z)-",
+        "estructura": "C22H42O2",
+        "url": "https://www.larodan.com/product/13z-docosenoic-acid/",
+        "sinonimos": [
+            "(13Z)-13-Docosenoic acid",
+            "Jaric 22:1",
+            "(Z)-13-Docosenoic acid",
+            "cis-13-Docosenoic acid",
+            "Erucic acid[...]",
+            "13(Z)-Docosenoic acid",
+            "13-Docosenoic acid",
+            "(Z)-",
+            "Δ13-cis-Docosenoic acid",
+            "(Z)-Erucic acid",
+            "cis-13-Erucic acid",
+            "(13Z)-Docosenoic acid",
+            "13-cis-Docosenoic acid"
+        ],
+        "peso molecular": "338.57",
+        "numero de lipido": "C22:1",
+        "smiles": "O=C(O)CCCCCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=DPUOLQHDNGRHBS-KTKRTIGZSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2201_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2201-30",
+                "dosis": "13(Z)-Docosenoic acid - 5 x 100 mg",
+                "precio": "121.00€"
+            },
+            {
+                "id": "10-2201-9",
+                "dosis": "13(Z)-Docosenoic acid - 100 mg",
+                "precio": "41.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2211",
+        "titulo": "11(Z)-Docosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/1002966.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "1002-96-6",
+        "CAS index name": "11-Docosenoic acid, (11Z)-",
+        "estructura": "C22H42O2",
+        "url": "https://www.larodan.com/product/11z-docosenoic-acid/",
+        "sinonimos": [
+            "Cetoleic acid",
+            "(11Z)-11-Docosenoic acid",
+            "(Z)-11-Docosenoic acid",
+            "11-Docosenoic acid",
+            "(Z)-",
+            "cis-Docos-11-enoic acid",
+            "11-Docosenoic acid",
+            "cis-"
+        ],
+        "peso molecular": "338.57",
+        "numero de lipido": "C22:1",
+        "smiles": "O=C(O)CCCCCCCCCC=CCCCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=KJDZDTDNIULJBE-QXMHVHEDSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2211_ENG-Ethanol.pdf",
+        "paquetes": [
+            {
+                "id": "10-2211-4",
+                "dosis": "11(Z)-Docosenoic acid - 5 mg",
+                "precio": "345.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2210",
+        "titulo": "13(E)-Docosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/506332.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "506-33-2",
+        "CAS index name": "13-Docosenoic acid, (13E)-",
+        "estructura": "C22H42O2",
+        "url": "https://www.larodan.com/product/13e-docosenoic-acid/",
+        "sinonimos": [
+            "NSC 59686",
+            "13-Docosenoic acid",
+            "(E)-",
+            "(E)-13-Docosenoic acid",
+            "(13E)-13-Docosenoic acid",
+            "Brassidic acid",
+            "trans-13-Docosenoic acid"
+        ],
+        "peso molecular": "338.57",
+        "numero de lipido": "C22:1",
+        "smiles": "O=C(O)CCCCCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=DPUOLQHDNGRHBS-MDZDMXLPSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2210_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2210-30",
+                "dosis": "13(E)-Docosenoic acid - 5 x 100 mg",
+                "precio": "173.00€"
+            },
+            {
+                "id": "10-2210-9",
+                "dosis": "13(E)-Docosenoic acid - 100 mg",
+                "precio": "61.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2401",
+        "titulo": "15(Z)-Tetracosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/506376.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "506-37-6",
+        "CAS index name": "15-Tetracosenoic acid, (15Z)-",
+        "estructura": "C24H46O2",
+        "url": "https://www.larodan.com/product/15z-tetracosenoic-acid/",
+        "sinonimos": [
+            "cis-15-Tetracosenoic acid",
+            "Nervonic acid",
+            "(15Z)-Tetracosenoic acid",
+            "15Z-Tetracosenoic acid",
+            "15-Tetracosenoic acid",
+            "(Z)-[...]",
+            "15-Tetracosenoic acid",
+            "cis-",
+            "Selacholeic acid",
+            "(15Z)-15-Tetracosenoic acid",
+            "(Z)-15-Tetracosenoic acid",
+            "Nevonic acid"
+        ],
+        "peso molecular": "366.62",
+        "numero de lipido": "C24:1",
+        "smiles": "O=C(O)CCCCCCCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=GWHCXVQVJPWHRF-KTKRTIGZSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2401_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2401-13",
+                "dosis": "15(Z)-Tetracosenoic acid - 1 g",
+                "precio": "169.00€"
+            },
+            {
+                "id": "10-2401-30",
+                "dosis": "15(Z)-Tetracosenoic acid - 5 x 100 mg",
+                "precio": "190.00€"
+            },
+            {
+                "id": "10-2401-9",
+                "dosis": "15(Z)-Tetracosenoic acid - 100 mg",
+                "precio": "55.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2408",
+        "titulo": "15(E)-Tetracosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/115863917.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "115863-91-7",
+        "CAS index name": "15-Tetracosenoic acid, (15E)-",
+        "estructura": "C24H46O2",
+        "url": "https://www.larodan.com/product/15e-tetracosenoic-acid/",
+        "sinonimos": [
+            "trans-Nervonic acid",
+            "15-Tetracosenoic acid",
+            "(E)-",
+            "(15E)-15-Tetracosenoic acid",
+            "trans-Tetracos-15-enoic acid"
+        ],
+        "peso molecular": "366.62",
+        "numero de lipido": "C24:1",
+        "smiles": "O=C(O)CCCCCCCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=GWHCXVQVJPWHRF-MDZDMXLPSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2408_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2408-4",
+                "dosis": "15(E)-Tetracosenoic acid - 5 mg",
+                "precio": "345.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2301",
+        "titulo": "14(Z)-Tricosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/105305008.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "105305-00-8",
+        "CAS index name": "14-Tricosenoic acid, (14Z)-",
+        "estructura": "C23H44O2",
+        "url": "https://www.larodan.com/product/14z-tricosenoic-acid/",
+        "sinonimos": [
+            "14-Tricosenoic acid",
+            "(Z)-",
+            "(14Z)-14-Tricosenoic acid",
+            "cis-14-Tricosenoic acid",
+            "23:1(ω-9)"
+        ],
+        "peso molecular": "352.6",
+        "numero de lipido": "C23:1",
+        "smiles": "O=C(O)CCCCCCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=BRCMIDDAOIVEAZ-KTKRTIGZSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 14(Z)-Tricosenoic acid / 10-2301",
+        "paquetes": [
+            {
+                "id": "10-2301-9",
+                "dosis": "14(Z)-Tricosenoic acid - 100 mg",
+                "precio": "184.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2501",
+        "titulo": "16(Z)-Pentacosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/140163399.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "140163-39-9",
+        "CAS index name": "16-Pentacosenoic acid, (16Z)-",
+        "estructura": "C25H48O2",
+        "url": "https://www.larodan.com/product/16z-pentacosenoic-acid/",
+        "sinonimos": [
+            "16-Pentacosenoic acid",
+            "(Z)-",
+            "(16Z)-16-Pentacosenoic acid",
+            "(Z)-16-Pentacosenoic acid",
+            "C25:1 ω-9"
+        ],
+        "peso molecular": "380.65",
+        "numero de lipido": "C25:1",
+        "smiles": "O=C(O)CCCCCCCCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=QIVQYKLZAIRQLU-KTKRTIGZSA-N",
+        "pureza": ">99%",
+        "almacenamiento": "Room temperature",
+        "suministrado como": "Neat",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "mailto:info@larodan.se?subject=MSDS for 16(Z)-Pentacosenoic acid / 10-2501",
+        "paquetes": [
+            {
+                "id": "10-2501-4",
+                "dosis": "16(Z)-Pentacosenoic acid - 5 mg",
+                "precio": "345.00€"
+            }
+        ]
+    },
+    {
+        "id": "10-2601",
+        "titulo": "17(Z)-Hexacosenoic acid",
+        "imagen_url": "https://www.larodan.com/media/structures/66274439.svg",
+        "descripcion": "Sin descripción",
+        "CAS number": "66274-43-9",
+        "CAS index name": "17-Hexacosenoic acid, (17Z)-",
+        "estructura": "C26H50O2",
+        "url": "https://www.larodan.com/product/17z-hexacosenoic-acid/",
+        "sinonimos": [
+            "17-Hexacosenoic acid",
+            "(Z)-",
+            "(Z)-17-Hexacosenoic acid",
+            "cis-17-Hexacosenoic acid",
+            "(17Z)-17-Hexacosenoic acid",
+            "Ximenic acid"
+        ],
+        "peso molecular": "394.67",
+        "numero de lipido": "C26:1",
+        "smiles": "O=C(O)CCCCCCCCCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "InChIKey=RQIDQEBURXNDKG-KTKRTIGZSA-N",
+        "pureza": ">98%",
+        "almacenamiento": "Freezer",
+        "suministrado como": "In solution",
+        "estado fisico": "Solid",
+        "documentacion": "Certificate of Analysis",
+        "msds": "https://www.larodan.com/media/10-2601_ENG.pdf",
+        "paquetes": [
+            {
+                "id": "10-2601-4",
+                "dosis": "17(Z)-Hexacosenoic acid - 5 mg",
+                "precio": "345.00€"
+            },
+            {
+                "id": "10-2601-7",
+                "dosis": "17(Z)-Hexacosenoic acid - 25 mg",
+                "precio": "1,150.00€"
+            }
+        ]
+    },
+    {
+        "id": "20-1910",
+        "titulo": "Methyl 10(E)-nonadecenoate",
+        "imagen_url": "https://www.larodan.com/media/structures/20-1910.png",
+        "descripcion": "Sin descripción",
+        "CAS number": "84675-68-3",
+        "CAS index name": "10-Nonadecenoic acid, methyl ester",
+        "estructura": "C20H38O2",
+        "url": "https://www.larodan.com/product/methyl-10e-nonadecenoate/",
+        "sinonimos": [
+            "Methyl trans-10-nonadecenoate"
+        ],
+        "peso molecular": "310.52",
+        "numero de lipido": "C20",
+        "smiles": "O=C(OC)CCCCCCCCC=CCCCCCCCC",
+        "isomeric smiles": null,
+        "InChI": null,
+        "InChIKey": "HHJGGWUNSRWUFJ-ZHACJKMWSA-N",
+        "pureza": null,
+        "almacenamiento": "Freezer",
+        "suministrado como": null,
+        "estado fisico": null,
+        "documentacion": null,
+        "msds": "mailto:info@larodan.se?subject=MSDS for Methyl 10(E)-nonadecenoate / 20-1910",
+        "paquetes": [
+            {
+                "id": "20-1910-7",
+                "dosis": "Methyl 10(E)-nonadecenoate - 25 mg",
+                "precio": ""
+            }
+        ]
+    }
+]
